@@ -1,4 +1,4 @@
-# BIL545 | Online alışverişte satın alma niyeti
+Online alışverişte satın alma niyeti
 
 E-ticaret oturumlarının satın alma niyetiyle ilişkisini UCI Online Shoppers Purchasing Intention verisi üzerinde inceleyen BIL545 proje deposu.
 
