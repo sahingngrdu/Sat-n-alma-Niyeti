@@ -1,5 +1,10 @@
 # BIL545 — Online alışverişte satın alma niyeti
 
+## Öğrenci bilgileri
+
+- **İsim Soyisim:** Şahin Güngördü
+- **Okul numarası:** 264312011
+
 Bu depo, aynı UCI Online Shoppers Purchasing Intention veri kümesiyle hazırlanan iki ayrı ders çıktısını içerir. CSV veri dosyası GitHub'a eklenmez; iki notebook da çalışma dizininde CSV varsa onu okur, yoksa UCI dataset id 468'den indirir.
 
 ## İçerik
